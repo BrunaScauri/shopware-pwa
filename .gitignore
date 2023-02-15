@@ -1,4 +1,14 @@
 # Created by .ignore support plugin (hsz.mobi)
+#  Added files
+.babelrc
+.editorconfig
+.gitattributes
+.prettierrc
+.vscode/settings.json
+_commitlint.config.js
+package-lock.json
+yarn.lock
+
 ### Node template
 # Logs
 /logs
