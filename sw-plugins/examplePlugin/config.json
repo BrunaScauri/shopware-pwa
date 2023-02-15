@@ -1,0 +1,9 @@
+{
+  "slots": [
+    {
+      "name": "pwa-plugin",
+      "file": "example.vue"
+    }
+  ],
+  "settings": {}
+}
