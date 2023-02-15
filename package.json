@@ -12,6 +12,7 @@
     "p:install": "shopware-pwa plugin:install --activate",
     "p:create": "shopware-pwa plugin:create",
     "p:list": "shopware-pwa plugin:list -f example",
+    "p:dump": "shopware-pwa:dump-plugins",
     "lint": "prettier --write '*.{js,vue}'",
     "start": "nuxt start",
     "test": "jest"
