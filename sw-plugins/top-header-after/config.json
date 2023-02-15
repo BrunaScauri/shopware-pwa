@@ -1,0 +1,9 @@
+{
+  "slots": [
+    {
+      "name": "top-header-after",
+      "file": "example.vue"
+    }
+  ],
+  "settings": {}
+}
