@@ -8,6 +8,7 @@
 _commitlint.config.js
 package-lock.json
 yarn.lock
+shopware-pwa.config.js
 
 ### Node template
 # Logs
